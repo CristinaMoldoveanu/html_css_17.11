@@ -1,0 +1,19 @@
+body {
+  background-color: tan;
+  font-family: sans-serif;
+  margin-left: 10%;
+}
+h2 {
+  color: green;
+}
+#cafea {
+  border-style: dotted;
+  border-color: blue;
+}
+.produs {
+  border-width: medium;
+  border-style: solid;
+}
+  .coffee {
+  border-color: brown;
+  }
